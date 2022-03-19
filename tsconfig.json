@@ -1,0 +1,23 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "target": "es2019",
+    "lib": ["ES6"],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "typeRoots": [
+      "node_modules/@types",
+      "src/@types"
+    ],
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "declaration": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "removeComments": false,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  }
+}
