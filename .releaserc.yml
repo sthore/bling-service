@@ -3,7 +3,15 @@ branches:
 plugins:
   - "semantic-release-gitmoji"
   - "@semantic-release/changelog"
+  - - "@semantic-release/git"
+    - assets:
+        - CHANGELOG.md
+      message: >
+        🔖 release ${nextRelease.version} [skip ci]
+
+        ${nextRelease.notes}
   - - "@semantic-release/github"
     - assets:
         - dist/**/*.{js,css}
+        - CHANGELOG.md
         - package.json
