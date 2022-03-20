@@ -4,5 +4,7 @@
   "runtimeVersion": "V8",
   "dependencies": {},
   "oauthScopes": [],
-  "urlFetchWhitelist": []
+  "urlFetchWhitelist": [
+    "https://bling.com.br/Api/v2"
+  ]
 }
