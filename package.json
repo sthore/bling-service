@@ -21,7 +21,7 @@
   },
   "dependencies": {},
   "scripts": {
-    "up": "tsc",
+    "build": "tsc && cp src/appsscript.json build",
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts",
     "test": "jest",
     "coverage": "yarn test --coverage"
