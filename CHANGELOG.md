@@ -1,3 +1,8 @@
+# [v1.3.0](https://github.com/sthore/bling-service/compare/v1.2.0...v1.3.0) (2022-03-21)
+
+## ✨ New Features
+- [`c35dae7`](https://github.com/sthore/bling-service/commit/c35dae7)  featchSimpleProduct and tests added
+
 # [v1.2.0](https://github.com/sthore/bling-service/compare/v1.1.0...v1.2.0) (2022-03-20)
 
 ## ✨ New Features
