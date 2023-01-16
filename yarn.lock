@@ -948,10 +948,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/google-apps-script@^1.0.45":
-  version "1.0.45"
-  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.45.tgz#b429095dd463dd91fc8df38a03690c6fcb4aebac"
-  integrity sha512-LOkwOeaoxt11splrb1REllLkRkpcwINHgsxzFHLFlwICzC8ld+UEUr8JJN4x4BVvzp7z/ZM1bDXJmD541CGzcw==
+"@types/google-apps-script@^1.0.57":
+  version "1.0.57"
+  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.57.tgz#44beb316a98d609de465bfb2e0b5aa1d2b63808c"
+  integrity sha512-w06Yoh+SamGpS2kGVlGy/5JkmFkLrW6u3tbglyHEu9uC9lrzqr6FyLcgVsL95Tmq9L0q//D8seqd4GZGRPPKUw==
 
 "@types/graceful-fs@^4.1.2":
   version "4.1.5"
